@@ -29,7 +29,7 @@ The app uses the shared /api route, so run it in Replit with the API Server work
 Push to your public GitHub repository
 Create a public repository on GitHub named paypal-invoice-copilot without initializing a README or license. Then, from the Replit Shell, run:
 
-git remote add origin https://github.com/YOUR-USERNAME/paypal-invoice-copilot.git
+git remote add origin [https://github.com/YOUR-USERNAME/paypal-invoice-copilot.git](https://github.com/jostina/paypal-invoice-copilot.git)
 git add .
 git status --short
 git commit -m "Build PayPal Invoice Copilot"
